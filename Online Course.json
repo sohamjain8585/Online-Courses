@@ -33,7 +33,7 @@
          
     },
       {
-        "id" : "103",
+        "id" : "103"
         "courseName" : "ROS",
         "platform" : "ros.orgwiki",
         "courseLink" : "https://www.ros.org"
